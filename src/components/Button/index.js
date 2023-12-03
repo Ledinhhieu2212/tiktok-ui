@@ -1,8 +1,5 @@
-import React from 'react'
-import myAlert from '~/my'
+import React from 'react';
 
 export default function Button() {
-  return (
-    <button onClick={myAlert}>Button click me!</button>
-  )
+  return <button>Button click me!</button>;
 }

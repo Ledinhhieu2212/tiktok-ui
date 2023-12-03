@@ -1,11 +1,9 @@
-import '~/App.css';
+
 import Button from '~/components/Button';
 
 function App() {
   return (
-    <div>
-      Hello
-      <Button />
+    <div>React App
     </div>
   );
 }
